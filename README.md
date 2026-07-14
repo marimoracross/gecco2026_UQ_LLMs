@@ -12,7 +12,6 @@ This repository contains the implementation of evolutionary optimization methods
 
 ```
 src/
-data/
 notebooks/
 ``
 
