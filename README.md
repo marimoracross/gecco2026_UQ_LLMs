@@ -10,8 +10,6 @@ This repository contains the implementation of evolutionary optimization methods
 
 ## Citation
 
-If you use this code in your research, please cite:
-
 ```bibtex
 @inproceedings{mora2026gecco,
   author    = {Maria Mora-Cross and Sa{\'u}l Calder{\'o}n-Ram{\'\i}rez and Sebasti{\'a}n Rojas Gonz{\'a}lez},
