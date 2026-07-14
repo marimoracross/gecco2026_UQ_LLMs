@@ -9,6 +9,10 @@ Official implementation of the methods presented in the GECCO 2026 Companion pap
 This repository contains the implementation of evolutionary optimization methods for uncertainty quantification in Large Language Models using latent-space representations.
 
 ## Citation
+
+If you use this code in your research, please cite:
+
+```bibtex
 @inproceedings{mora2026gecco,
   author    = {Maria Mora-Cross and Sa{\'u}l Calder{\'o}n-Ram{\'\i}rez and Sebasti{\'a}n Rojas Gonz{\'a}lez},
   title     = {Multiobjective Evolutionary Calibration of Uncertainty Quantification for Large Language Models},
@@ -16,7 +20,6 @@ This repository contains the implementation of evolutionary optimization methods
   year      = {2026},
   address   = {San Jose, Costa Rica},
   publisher = {ACM},
-  doi        = {10.1145/3795101.3805422}
+  doi       = {10.1145/3795101.3805422}
 }
-
-
+```
